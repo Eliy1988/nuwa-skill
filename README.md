@@ -149,7 +149,7 @@ npx skills add alchaincyf/nuwa-skill
 
 ## 已蒸馏人物
 
-女娲已蒸馏了7位人物 + 1个主题。每个都是独立的、可直接安装使用的Skill：
+女娲已蒸馏了13位人物 + 1个主题。每个都是独立的、可直接安装使用的Skill：
 
 ### 人物Skill
 
@@ -162,16 +162,22 @@ npx skills add alchaincyf/nuwa-skill
 | **纳瓦尔** | 财富/杠杆/人生哲学 | [naval-skill](https://github.com/alchaincyf/naval-skill) | `npx skills add alchaincyf/naval-skill` |
 | **塔勒布** | 风险/反脆弱/不确定性 | [taleb-skill](https://github.com/alchaincyf/taleb-skill) | `npx skills add alchaincyf/taleb-skill` |
 | **张雪峰** | 教育/职业规划/阶层流动 | [zhangxuefeng-skill](https://github.com/alchaincyf/zhangxuefeng-skill) | `npx skills add alchaincyf/zhangxuefeng-skill` |
+| 🆕 **Paul Graham** | 创业/写作/产品/人生哲学 | [paul-graham-skill](https://github.com/alchaincyf/paul-graham-skill) | `npx skills add alchaincyf/paul-graham-skill` |
+| 🆕 **张一鸣** | 产品/组织/全球化/人才 | [zhang-yiming-skill](https://github.com/alchaincyf/zhang-yiming-skill) | `npx skills add alchaincyf/zhang-yiming-skill` |
+| 🆕 **Karpathy** | AI/工程/教育/开源 | [karpathy-skill](https://github.com/alchaincyf/karpathy-skill) | `npx skills add alchaincyf/karpathy-skill` |
+| 🆕 **Ilya Sutskever** | AI安全/scaling/研究品味 | [ilya-sutskever-skill](https://github.com/alchaincyf/ilya-sutskever-skill) | `npx skills add alchaincyf/ilya-sutskever-skill` |
+| 🆕 **MrBeast** | 内容创造/YouTube方法论 | [mrbeast-skill](https://github.com/alchaincyf/mrbeast-skill) | `npx skills add alchaincyf/mrbeast-skill` |
+| 🆕 **特朗普** | 谈判/权力/传播/行为预判 | [trump-skill](https://github.com/alchaincyf/trump-skill) | `npx skills add alchaincyf/trump-skill` |
 
-### 主题Skill（新！）
+### 主题Skill
 
 | 主题 | 领域 | 独立仓库 | 一键安装 |
 |------|------|---------|---------|
-| 🆕 **X导师** | X/Twitter运营全栈 | [x-mentor-skill](https://github.com/alchaincyf/x-mentor-skill) | `npx skills add alchaincyf/x-mentor-skill` |
+| **X导师** | X/Twitter运营全栈 | [x-mentor-skill](https://github.com/alchaincyf/x-mentor-skill) | `npx skills add alchaincyf/x-mentor-skill` |
 
-人物Skill蒸馏一个人的思维方式；主题Skill蒸馏一个领域的方法论。X导师是女娲的第一个「非人类」作品，基于6位顶级X创作者 + 开源算法数据。
+人物Skill蒸馏一个人的思维方式；主题Skill蒸馏一个领域的方法论。每个仓库都包含完整的调研数据和效果示例对话。
 
-每个仓库都包含完整的调研数据和效果示例对话。想蒸馏不在列表里的人或主题？安装女娲，说「蒸馏一个XXX」就行。
+想蒸馏不在列表里的人或主题？安装女娲，说「蒸馏一个XXX」就行。
 
 ---
 
